@@ -1,6 +1,0 @@
-{
-    "omitParentDirectory": true,
-    "customVariables": [
-        "ports=>8081:8000"
-    ]
-}
