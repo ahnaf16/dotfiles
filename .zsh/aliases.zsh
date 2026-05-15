@@ -1,6 +1,4 @@
 # Alias
-# ---
-#
 
 # General
 alias cls='clear'
@@ -28,6 +26,8 @@ alias aw='appwrite'
 alias fgen='fluttergen'
 
 alias cz='chezmoi'
+
+alias fa='fastapi'
 
 
 alias yless='jless --yam'
