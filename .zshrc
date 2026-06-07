@@ -42,3 +42,8 @@ export PATH="$HOME/.local/bin:$PATH"
 [[ -f /Users/ahnafs/.dart-cli-completion/zsh-config.zsh ]] && . /Users/ahnafs/.dart-cli-completion/zsh-config.zsh || true
 ## [/Completion]
 
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/ahnafs/.lmstudio/bin"
+# End of LM Studio CLI section
+

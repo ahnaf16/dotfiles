@@ -12,7 +12,7 @@ $directory\
 $git_branch\
 $git_status\
 $fill\
-$dart 
+$dart$python
 $character
 """
 
@@ -94,6 +94,9 @@ use_12hr = true
 [dart]
 symbol = " "
 format = "[$symbol($version)]($style)"
+
+[python]
+symbol = " "
 
 [fill]
 symbol = " "
