@@ -1,0 +1,39 @@
+model = "gpt-5.5"
+model_reasoning_effort = "medium"
+[projects."/Users/ahnafs/Dev/FlutterProject/kemi_filani"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/post_wagens_app"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/chirp_addons"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/ahnaf_dev"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/single_vendor_admin_console"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/product_catelog_app"]
+trust_level = "trusted"
+
+[projects."/Users/ahnafs/Dev/FlutterProject/sales_manager"]
+trust_level = "trusted"
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
+
+[mcp_servers.dart]
+command = "dart"
+args = ["mcp-server", "--force-roots-fallback"]
+
+[plugins."figma@openai-curated"]
+enabled = true
+
+[plugins."github@openai-curated"]
+enabled = true
+
+[notice.model_migrations]
+"gpt-5.3-codex" = "gpt-5.4"
+"gpt-5.4" = "gpt-5.5"

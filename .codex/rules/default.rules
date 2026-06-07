@@ -1,0 +1,6 @@
+prefix_rule(pattern=["dart", "format"], decision="allow")
+prefix_rule(pattern=["flutter", "analyze"], decision="allow")
+prefix_rule(pattern=["flutter", "pub", "get"], decision="allow")
+prefix_rule(pattern=["flutter", "pub", "add"], decision="allow")
+prefix_rule(pattern=["dart", "run", "build_runner"], decision="allow")
+prefix_rule(pattern=["flutter", "test"], decision="allow")
