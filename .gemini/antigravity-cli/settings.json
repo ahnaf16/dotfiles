@@ -1,0 +1,21 @@
+{
+  "colorScheme": "tokyo night",
+  "model": "Claude Sonnet 4.6 (Thinking)",
+  "permissions": {
+    "allow": [
+      "mcp(dart/analyze_files)",
+      "mcp(dart/run_tests)",
+      "command(git status)",
+      "command(dart)",
+      "mcp(dart/dart_format)",
+      "mcp(dart/dart_fix)",
+      "command(flutter)",
+      "command(git diff)",
+      "mcp(dart/pub_dev_search)",
+      "command(ls)",
+      "command(grep)",
+      "mcp(dart/pub)",
+      "command(wc)"
+    ]
+  }
+}

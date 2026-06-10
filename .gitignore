@@ -17,3 +17,26 @@
 .codex/*.sqlite
 .codex/*.sqlite-shm
 .codex/*.sqlite-wal
+# Gemini CLI runtime/secrets (do not back up)
+.gemini/oauth_creds.json
+.gemini/google_accounts.json
+.gemini/installation_id
+.gemini/projects.json
+.gemini/state.json
+.gemini/trustedFolders.json
+.gemini/extension_integrity.json
+.gemini/history/
+.gemini/tmp/
+.gemini/antigravity-cli/history.jsonl
+.gemini/antigravity-cli/installation_id
+.gemini/antigravity-cli/last_check.timestamp
+.gemini/antigravity-cli/cache/
+.gemini/antigravity-cli/brain/
+.gemini/antigravity-cli/conversations/
+.gemini/antigravity-cli/log/
+.gemini/antigravity-cli/cli.log
+.gemini/antigravity-cli/implicit/
+.gemini/antigravity-cli/knowledge/
+.gemini/antigravity-cli/updater/
+.gemini/antigravity-cli/builtin/
+.gemini/antigravity-cli/bin/

@@ -1,0 +1,1 @@
+{"name":"list_devices","description":"Lists available Flutter devices.","parameters":{"type":"object"}}

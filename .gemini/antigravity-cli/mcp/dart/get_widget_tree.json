@@ -1,0 +1,1 @@
+{"name":"get_widget_tree","description":"Retrieves the widget tree from the active Flutter application. Requires \"connect_dart_tooling_daemon\" to be successfully called first.","parameters":{"additionalProperties":false,"properties":{"summaryOnly":{"description":"Defaults to false. If true, only widgets created by user code are returned.","type":"boolean"}},"type":"object"}}

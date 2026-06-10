@@ -1,0 +1,1 @@
+{"name":"get_selected_widget","description":"Retrieves the selected widget from the active Flutter application. Requires \"connect_dart_tooling_daemon\" to be successfully called first.","parameters":{"additionalProperties":false,"type":"object"}}

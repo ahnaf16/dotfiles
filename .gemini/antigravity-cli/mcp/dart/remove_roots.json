@@ -1,0 +1,1 @@
+{"name":"remove_roots","description":"Removes one or more project roots previously added via the add_roots tool.","parameters":{"additionalProperties":false,"properties":{"uris":{"description":"All the project roots to remove from this server.","items":{"description":"The URIs of the roots to remove.","type":"string"},"type":"array"}},"type":"object"}}

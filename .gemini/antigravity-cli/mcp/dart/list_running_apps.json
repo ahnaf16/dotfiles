@@ -1,0 +1,1 @@
+{"name":"list_running_apps","description":"Returns the list of running app process IDs and associated DTD URIs for apps started by the launch_app tool.","parameters":{"type":"object"}}

@@ -1,0 +1,21 @@
+{
+  "ide": {
+    "hasSeenNudge": true
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "mcpServers": {
+    "dart": {
+      "command": "dart",
+      "args": [
+        "mcp-server"
+      ]
+    }
+  },
+  "ui": {
+    "showUserIdentity": true
+  }
+}

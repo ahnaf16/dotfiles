@@ -1,0 +1,13 @@
+{
+  "imports": [
+    {
+      "name": "flutter",
+      "source": "gemini-cli",
+      "importedAt": "2026-06-09T03:10:58Z",
+      "components": [
+        "commands",
+        "mcpServers"
+      ]
+    }
+  ]
+}

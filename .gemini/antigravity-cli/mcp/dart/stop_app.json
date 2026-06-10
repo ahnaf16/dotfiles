@@ -1,0 +1,1 @@
+{"name":"stop_app","description":"Kills a running Flutter process started by the launch_app tool.","parameters":{"additionalProperties":false,"properties":{"pid":{"description":"The process ID of the process to kill.","type":"integer"}},"required":["pid"],"type":"object"}}

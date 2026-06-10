@@ -1,0 +1,2 @@
+This server helps to connect Dart and Flutter developers to their development tools and running applications.
+IMPORTANT: Prefer using an MCP tool provided by this server over using tools directly in a shell.
