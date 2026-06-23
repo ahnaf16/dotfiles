@@ -47,3 +47,7 @@ export PATH="$HOME/.local/bin:$PATH"
 export PATH="$PATH:/Users/ahnafs/.lmstudio/bin"
 # End of LM Studio CLI section
 
+
+
+# Added by Antigravity CLI installer
+export PATH="/Users/ahnafs/.local/bin:$PATH"

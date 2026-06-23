@@ -13,6 +13,12 @@
       "args": [
         "mcp-server"
       ]
+    },
+    "next-devtools": {
+      "command": "npx",
+      "args": [
+        "next-devtools-mcp@latest"
+      ]
     }
   },
   "ui": {

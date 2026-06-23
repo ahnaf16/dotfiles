@@ -1,6 +1,7 @@
 {
+  "allowNonWorkspaceAccess": true,
   "colorScheme": "tokyo night",
-  "model": "Claude Sonnet 4.6 (Thinking)",
+  "model": "Gemini 3.5 Flash (Medium)",
   "permissions": {
     "allow": [
       "mcp(dart/analyze_files)",
@@ -15,7 +16,19 @@
       "command(ls)",
       "command(grep)",
       "mcp(dart/pub)",
-      "command(wc)"
+      "command(wc)",
+      "command(git grep)",
+      "command(serverpod)",
+      "command(cd)",
+      "command(~/.pub-cache/bin/serverpod)",
+      "command(.venv/bin/fastapi)",
+      "command(npm run)",
+      "command(cat)",
+      "command(head)",
+      "command(find)",
+      "command(npm run lint 2\u003e\u00261)",
+      "mcp(dart/hover)",
+      "mcp(dart/signature_help)"
     ]
   }
 }
