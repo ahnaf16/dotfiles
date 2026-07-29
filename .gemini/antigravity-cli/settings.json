@@ -1,7 +1,7 @@
 {
   "allowNonWorkspaceAccess": true,
   "colorScheme": "tokyo night",
-  "model": "Gemini 3.5 Flash (Medium)",
+  "model": "Gemini 3.1 Pro (High)",
   "permissions": {
     "allow": [
       "mcp(dart/analyze_files)",
@@ -28,7 +28,27 @@
       "command(find)",
       "command(npm run lint 2\u003e\u00261)",
       "mcp(dart/hover)",
-      "mcp(dart/signature_help)"
+      "mcp(dart/signature_help)",
+      "command(fvm)",
+      "mcp(next-devtools/nextjs_docs)",
+      "command(./gradlew)",
+      "write_file(*)",
+      "command(make lint)"
     ]
-  }
+  },
+  "trustedWorkspaces": [
+    "/Users/ahnafs/Dev/",
+    "/Users/ahnafs/Dev/WebProject/gadget-flix",
+    "/Users/ahnafs/Dev/FlutterProject/kemi_filani",
+    "/Users/ahnafs/Dev/FlutterProject/go_place_app",
+    "/Users/ahnafs/Dev/FlutterProject/go_place_driver",
+    "/Users/ahnafs/Dev/FlutterProject/dropped",
+    "/Users/ahnafs/Dev/JAVA",
+    "/Users/ahnafs/Dev/JAVA/NestIQ",
+    "/Users/ahnafs/Dev/FlutterProject/noodle_joy_app",
+    "/Users/ahnafs/Dev/FlutterProject/post_wagens_app",
+    "/Users/ahnafs/Dev/FlutterProject/u_tube",
+    "/Users/ahnafs/Dev/FlutterProject/echo_player",
+    "/Users/ahnafs/Dev/FlutterProject/ahnaf_dev"
+  ]
 }
