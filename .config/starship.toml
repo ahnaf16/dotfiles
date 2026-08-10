@@ -12,8 +12,8 @@ $directory\
 $git_branch\
 $git_status\
 $fill\
-$dart$python
-$character
+$dart $python
+$character\
 """
 
 
@@ -96,7 +96,8 @@ symbol = " "
 format = "[$symbol($version)]($style)"
 
 [python]
-symbol = " "
+symbol = " "
+format = '[${symbol}${pyenv_prefix}(${version} )(\($virtualenv\) )]($style)'
 
 [fill]
 symbol = " "
